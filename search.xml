@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello, World!</title>
-    <url>/2019/10/23/Hello-World/</url>
-    <content><![CDATA[<h1 id="Hello-World"><a href="#Hello-World" class="headerlink" title="Hello, World!"></a>Hello, World!</h1>]]></content>
-      <tags>
-        <tag>tags</tag>
-      </tags>
+    <title>Hello</title>
+    <url>/2019/10/26/Hello/</url>
+    <content><![CDATA[<p>Hello</p>
+]]></content>
   </entry>
 </search>
